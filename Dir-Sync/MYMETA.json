@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "Dir::GitSync - automaticall sync repositories",
    "author" : [
       "Mats Kindahl"
    ],
@@ -51,5 +51,5 @@
       }
    },
    "version" : 0.01,
-   "x_serialization_backend" : "JSON::PP version 4.07"
+   "x_serialization_backend" : "JSON::PP version 4.16"
 }

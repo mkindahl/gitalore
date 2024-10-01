@@ -1,5 +1,5 @@
 ---
-abstract: unknown
+abstract: 'Dir::GitSync - automaticall sync repositories'
 author:
   - 'Mats Kindahl'
 build_requires:

@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME             => 'Dir::GitSync',
     VERSION_FROM     => 'lib/Dir/GitSync.pm',
-    ABSTRACT_FROM    => 'lib/Dir/GitSync.pm',
+    ABSTRACT         => 'Dir::GitSync - automaticall sync repositories',
     AUTHOR           => 'Mats Kindahl',
     LICENSE          => 'apache_2_0',
     MIN_PERL_VERSION => '5.008004',

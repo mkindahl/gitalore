@@ -1,0 +1,5 @@
+Dir::GitSync - Perl library to automatically sync repositories
+
+This extension does synchronizes directories on different machines. It
+makes the assumption that you work on one machine at a time, and that
+you commit frequently, so the risk of getting a conflict is low.
